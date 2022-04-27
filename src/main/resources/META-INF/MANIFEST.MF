@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Main-Class: com.wangxl.mqttpool.MqttpoolApplication
+Class-Path: logback-core-1.2.3.jar HikariCP-3.4.5.jar spring-boot-starte
+ r-jdbc-2.3.12.RELEASE.jar spring-boot-starter-json-2.3.12.RELEASE.jar s
+ pring-boot-autoconfigure-2.3.12.RELEASE.jar spring-web-5.2.15.RELEASE.j
+ ar spring-aop-5.2.15.RELEASE.jar spring-context-5.2.15.RELEASE.jar fast
+ json-1.2.79.jar hibernate-commons-annotations-5.1.2.Final.jar org.eclip
+ se.paho.client.mqttv3-1.2.5.jar classmate-1.5.1.jar spring-expression-5
+ .2.15.RELEASE.jar jul-to-slf4j-1.7.30.jar jakarta.annotation-api-1.3.5.
+ jar spring-jcl-5.2.15.RELEASE.jar jackson-databind-2.11.4.jar jakarta.x
+ ml.bind-api-2.3.3.jar jackson-module-parameter-names-2.11.4.jar spring-
+ boot-starter-tomcat-2.3.12.RELEASE.jar lombok-1.18.20.jar spring-aspect
+ s-5.2.15.RELEASE.jar spring-beans-5.2.15.RELEASE.jar spring-data-jpa-2.
+ 3.9.RELEASE.jar jackson-annotations-2.11.4.jar slf4j-api-1.7.30.jar spr
+ ing-jdbc-5.2.15.RELEASE.jar spring-boot-starter-data-jpa-2.3.12.RELEASE
+ .jar jaxb-runtime-2.3.4.jar spring-webmvc-5.2.15.RELEASE.jar jakarta.pe
+ rsistence-api-2.2.3.jar jakarta.activation-1.2.2.jar log4j-api-2.13.3.j
+ ar aspectjweaver-1.9.6.jar jackson-core-2.11.4.jar txw2-2.3.4.jar byte-
+ buddy-1.10.22.jar spring-boot-2.3.12.RELEASE.jar jakarta.activation-api
+ -1.2.2.jar log4j-to-slf4j-2.13.3.jar spring-orm-5.2.15.RELEASE.jar spri
+ ng-data-commons-2.3.9.RELEASE.jar logback-classic-1.2.3.jar spring-boot
+ -starter-web-2.3.12.RELEASE.jar jboss-logging-3.4.2.Final.jar javassist
+ -3.27.0-GA.jar dom4j-2.1.3.jar spring-boot-starter-aop-2.3.12.RELEASE.j
+ ar istack-commons-runtime-3.0.12.jar tomcat-embed-websocket-9.0.46.jar 
+ jackson-datatype-jsr310-2.11.4.jar jackson-datatype-jdk8-2.11.4.jar spr
+ ing-tx-5.2.15.RELEASE.jar jakarta.transaction-api-1.3.3.jar antlr-2.7.7
+ .jar mysql-connector-java-8.0.17.jar tomcat-embed-core-9.0.46.jar snake
+ yaml-1.26.jar spring-core-5.2.15.RELEASE.jar jakarta.el-3.0.3.jar sprin
+ g-boot-starter-logging-2.3.12.RELEASE.jar jandex-2.2.3.Final.jar hibern
+ ate-core-5.4.32.Final.jar spring-boot-starter-2.3.12.RELEASE.jar
+
